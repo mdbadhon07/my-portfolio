@@ -33,7 +33,7 @@ const projects = [
     gradient: "from-purple-500 to-pink-500"
   },
   {
-    title: "Blockchain Wallet",
+    title: "upcoming",
     description: "Secure cryptocurrency wallet with multi-chain support and DeFi integration.",
     image: "⛓️",
     technologies: ["React", "Web3.js", "Solidity", "MetaMask"],
