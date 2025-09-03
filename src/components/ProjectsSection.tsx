@@ -15,7 +15,7 @@ const projects = [
     gradient: "from-blue-500 to-purple-600"
   },
   {
-    title: "AI-Powered Analytics",
+    title: "Upcoming",
     description: "Data visualization platform with machine learning insights and predictive analytics.",
     image: "🤖",
     technologies: ["Python", "TensorFlow", "React", "D3.js"],
