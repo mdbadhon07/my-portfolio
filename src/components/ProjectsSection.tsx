@@ -15,7 +15,7 @@ const projects = [
     gradient: "from-blue-500 to-purple-600"
   },
   {
-    title: "Upcoming",
+    title: "Coming Soon",
     description: "Data visualization platform with machine learning insights and predictive analytics.",
     image: "🤖",
     technologies: ["Python", "TensorFlow", "React", "D3.js"],
@@ -24,7 +24,7 @@ const projects = [
     gradient: "from-green-500 to-blue-500"
   },
   {
-    title: "Upcoming",
+    title: "Coming Soon",
     description: "Real-time social platform with messaging, posts, and interactive features.",
     image: "💬",
     technologies: ["Vue.js", "Firebase", "WebRTC", "Socket.io"],
@@ -33,7 +33,7 @@ const projects = [
     gradient: "from-purple-500 to-pink-500"
   },
   {
-    title: "upcoming",
+    title: "Coming Soon",
     description: "Secure cryptocurrency wallet with multi-chain support and DeFi integration.",
     image: "⛓️",
     technologies: ["React", "Web3.js", "Solidity", "MetaMask"],
