@@ -9,7 +9,7 @@ const projects = [
     title: "E-Commerce Platform",
     description: "A modern e-commerce solution with real-time inventory, payment processing, and admin dashboard.",
     image: "🚀",
-    technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
+    technologies: ["React", "Typscript", "PostgreSQL", "Django"],
     githubUrl: "#",
     liveUrl: "#",
     gradient: "from-blue-500 to-purple-600"
@@ -24,7 +24,7 @@ const projects = [
     gradient: "from-green-500 to-blue-500"
   },
   {
-    title: "Social Media App",
+    title: "Upcoming",
     description: "Real-time social platform with messaging, posts, and interactive features.",
     image: "💬",
     technologies: ["Vue.js", "Firebase", "WebRTC", "Socket.io"],
