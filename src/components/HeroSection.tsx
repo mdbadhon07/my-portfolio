@@ -28,7 +28,7 @@ const HeroSection = () => {
             animate={{ scale: 1 }}
             transition={{ duration: 0.8, delay: 0.5 }}
           >
-            I'M MD BADHON
+            Web Developers 
           </motion.h1>
           
           <motion.p
