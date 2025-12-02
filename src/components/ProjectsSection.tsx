@@ -15,8 +15,8 @@ const projects = [
     gradient: "from-blue-500 to-purple-600"
   },
   {
-    title: "Coming Soon",
-    description: "Data visualization platform with machine learning insights and predictive analytics.",
+    title: "Badhon Agro ",
+    description: "AN agro site.",
     image: "🤖",
     technologies: ["Python", "TensorFlow", "React", "D3.js"],
     githubUrl: "https://github.com/mdbadhon07/badhon-agro-bazaar",
