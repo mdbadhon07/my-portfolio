@@ -134,7 +134,7 @@ const Header = () => {
                 asChild
               >
                 <a
-                  href="/resume.pdf"
+                  href="CV-SOFTWARE_ENGINEER-MD_BADHON (1).pdf"
                   download
                   className="inline-flex items-center justify-center gap-2 w-full"
                 >
