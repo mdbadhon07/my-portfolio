@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: http://192.168.0.109:8080/
+**URL**: https://my-portfolio-phi-red-73.vercel.app/?fbclid=IwY2xjawObM5lleHRuA2FlbQIxMABicmlkETFXdXV6UER3dENIRWZnZ0dac3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjtkJHf3wHGcz1IU5O_Xy9YHvnpFkfcQmtTUBNkSbTqi5dZGXq5GtiSi2xVQ_aem_dMDdxWkh3pF-VYKMlq5c-w
 ## How can I edit this code?
 
 There are several ways of editing your application.
