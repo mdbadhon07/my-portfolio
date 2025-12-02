@@ -10,8 +10,7 @@ const projects = [
     description: "A modern e-commerce solution with real-time inventory, payment processing, and admin dashboard.",
     image: "🚀",
     technologies: ["React", "Typscript", "PostgreSQL", "Django"],
-     <a href="https://github.com/mdbadhon07/glow-and-gadget-express" target="_blank" rel="noopener noreferrer">
-      
+    githubUrl: "https://github.com/mdbadhon07/glow-and-gadget-express",
     liveUrl: "https://glow-and-gadget-express.vercel.app/",
     gradient: "from-blue-500 to-purple-600"
   },
@@ -74,23 +73,31 @@ const ProjectCard = ({ project, index }: { project: typeof projects[0], index: n
             ))}
           </div>
           
-          <div className="flex gap-3 pt-4">
-            <Button
-              size="sm"
-              variant="outline"
-              className="glass border-primary/30 text-primary hover:bg-primary/10 flex-1"
-            >
-              <Github className="w-4 h-4 mr-2" />
-              Code
-            </Button>
-            <Button
-              size="sm"
-              className="bg-primary text-primary-foreground hover:shadow-glow flex-1"
-            >
-              <ExternalLink className="w-4 h-4 mr-2" />
-              Live Demo
-            </Button>
-          </div>
+         <div className="flex gap-3 pt-4">
+
+  <a href={project.githubUrl} target="_blank" rel="noopener noreferrer" className="flex-1">
+    <Button
+      size="sm"
+      variant="outline"
+      className="glass border-primary/30 text-primary hover:bg-primary/10 w-full"
+    >
+      <Github className="w-4 h-4 mr-2" />
+      Code
+    </Button>
+  </a>
+
+  <a href={project.liveUrl} target="_blank" rel="noopener noreferrer" className="flex-1">
+    <Button
+      size="sm"
+      className="bg-primary text-primary-foreground hover:shadow-glow w-full"
+    >
+      <ExternalLink className="w-4 h-4 mr-2" />
+      Live Demo
+    </Button>
+  </a>
+
+</div>
+
         </CardContent>
       </Card>
     </motion.div>
