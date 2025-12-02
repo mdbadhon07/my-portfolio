@@ -87,7 +87,7 @@ const Header = () => {
                   className="h-10 w-10 p-0 hover:text-primary hover-scale"
                 >
                   <a
-                    href="https://github.com/Jhonpp9"
+                    href="https://github.com/mdbadhon07"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub"
