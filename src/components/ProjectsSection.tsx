@@ -10,7 +10,8 @@ const projects = [
     description: "A modern e-commerce solution with real-time inventory, payment processing, and admin dashboard.",
     image: "🚀",
     technologies: ["React", "Typscript", "PostgreSQL", "Django"],
-    githubUrl: "https://github.com/mdbadhon07/glow-and-gadget-express",
+     <a href="https://github.com/mdbadhon07/glow-and-gadget-express" target="_blank" rel="noopener noreferrer">
+      <button>GitHub</button>
     liveUrl: "https://glow-and-gadget-express.vercel.app/",
     gradient: "from-blue-500 to-purple-600"
   },
