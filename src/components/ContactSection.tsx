@@ -33,7 +33,7 @@ const ContactSection = () => {
   };
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/Jhonpp9", label: "GitHub", color: "hover:text-foreground" },
+    { icon: Github, href: "https://github.com/mdbadhon07", label: "GitHub", color: "hover:text-foreground" },
     { icon: Linkedin, href: "https://www.linkedin.com/in/md-badhon-305578244/", label: "LinkedIn", color: "hover:text-blue-400" },
     { icon: Facebook, href: "https://www.facebook.com/md.badhon.400298", label: "Facebook", color: "hover:text-blue-400" },
     { icon: Mail, href: "https://mail.google.com/mail/?view=cm&fs=1&to=mdbadhon22449@gmail.com", label: "Email", color: "hover:text-primary" }
