@@ -20,7 +20,7 @@ const projects = [
     description: "Data visualization platform with machine learning insights and predictive analytics.",
     image: "🤖",
     technologies: ["Python", "TensorFlow", "React", "D3.js"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/mdbadhon07/badhon-agro-bazaar",
     liveUrl: "#",
     gradient: "from-green-500 to-blue-500"
   },
