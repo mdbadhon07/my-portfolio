@@ -199,7 +199,7 @@ const ContactSection = () => {
                   </div>
                   <div className="flex items-center justify-between">
                     <span className="text-muted-foreground">Time zone</span>
-                    <span className="text-foreground">UTC-5 (BD)</span>
+                    <span className="text-foreground">GMT+6  (BD)</span>
                   </div>
                 </div>
               </CardContent>
