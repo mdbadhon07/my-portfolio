@@ -20,16 +20,16 @@ const projects = [
     image: "🤖",
     technologies: ["Python", "TensorFlow", "React", "D3.js"],
     githubUrl: "https://github.com/mdbadhon07/badhon-agro-bazaar",
-    liveUrl: "#",
+    liveUrl: "https://badhon-agro-bazaar.vercel.app/",
     gradient: "from-green-500 to-blue-500"
   },
   {
-    title: "Coming Soon",
-    description: "Real-time social platform with messaging, posts, and interactive features.",
+    title: "Portfolio project 2",
+    description: "An futuristic portfolio of a next gen dev.",
     image: "💬",
     technologies: ["Vue.js", "Firebase", "WebRTC", "Socket.io"],
-    githubUrl: "#",
-    liveUrl: "#",
+    githubUrl: "https://github.com/mdbadhon07/lumen-drift-portfolio-main",
+    liveUrl: "lumen-drift-portfolio-main.vercel.app",
     gradient: "from-purple-500 to-pink-500"
   },
   {
