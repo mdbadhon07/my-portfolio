@@ -16,7 +16,7 @@ const projects = [
   },
   {
     title: "Badhon Agro ",
-    description: "AN agro site.",
+    description: "An agro site.",
     image: "💬",
     technologies: ["Python", "TensorFlow", "React", "D3.js"],
     githubUrl: "https://github.com/mdbadhon07/badhon-agro-bazaar",
