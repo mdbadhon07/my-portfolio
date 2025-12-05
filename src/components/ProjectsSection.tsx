@@ -17,7 +17,7 @@ const projects = [
   {
     title: "Badhon Agro ",
     description: "AN agro site.",
-    image: "🤖",
+    image: "💬",
     technologies: ["Python", "TensorFlow", "React", "D3.js"],
     githubUrl: "https://github.com/mdbadhon07/badhon-agro-bazaar",
     liveUrl: "https://badhon-agro-bazaar.vercel.app/",
@@ -26,19 +26,19 @@ const projects = [
   {
     title: "Portfolio project 2",
     description: "An futuristic portfolio of a next gen dev.",
-    image: "💬",
+    image: "🤖",
     technologies: ["Vue.js", "Firebase", "WebRTC", "Socket.io"],
     githubUrl: "https://github.com/mdbadhon07/lumen-drift-portfolio-main",
-    liveUrl: "lumen-drift-portfolio-main.vercel.app",
+    liveUrl: "https://lumen-drift-portfolio-main-wrj8rsk2h.vercel.app/",
     gradient: "from-purple-500 to-pink-500"
   },
   {
-    title: "Coming Soon",
-    description: "Secure cryptocurrency wallet with multi-chain support and DeFi integration.",
+    title: "Portfolio Project 3",
+    description: "futuristic and with full of fantasy.",
     image: "⛓️",
     technologies: ["React", "Web3.js", "Solidity", "MetaMask"],
-    githubUrl: "#",
-    liveUrl: "#",
+    githubUrl: "https://github.com/mdbadhon07/dreamscape-glow-main",
+    liveUrl: "https://dreamscape-glow-main.vercel.app/",
     gradient: "from-yellow-500 to-red-500"
   }
 ];
