@@ -28,7 +28,7 @@ const HeroSection = () => {
             animate={{ scale: 1 }}
             transition={{ duration: 0.8, delay: 0.5 }}
           >
-            Crafting Digital Futures
+            Next-Gen Developer
           </motion.h1>
           
           <motion.p
