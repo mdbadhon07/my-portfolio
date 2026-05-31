@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 import { useRef } from "react";
 
 const skills = [
-  { name: "Python", level: 95, color: "#092E20" },
-  { name: "Django", level: 90, color: "#3776AB" },
+  { name: "Javascript", level: 95, color: "#092E20" },
+  { name: "Node.js", level: 90, color: "#3776AB" },
   { name: "CSS", level: 88, color: "#1572B6" },
   { name: "HTML", level: 85, color: "#E34F26" },
   { name: "PostgreSQL", level: 82, color: "#336791" },
