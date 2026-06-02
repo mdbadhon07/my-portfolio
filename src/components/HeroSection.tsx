@@ -14,14 +14,21 @@ const HeroSection = () => {
         <div className="absolute top-1/2 right-1/3 w-3 h-3 bg-accent rounded-full animate-bounce opacity-40" />
         <div className="absolute bottom-1/3 left-1/2 w-1 h-1 bg-neon-green rounded-full animate-ping opacity-50" />
       </div>
-
       <div className="container mx-auto px-4 z-10 text-center">
         <motion.div
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.2 }}
           className="max-w-4xl mx-auto"
-        >
+        > 
+          <motion.p
+  className="text-primary uppercase tracking-[0.3em] text-sm md:text-lg font-semibold mb-4 inline-block -ml-20"
+  initial={{ opacity: 0, y: -20 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.8 }}
+>
+  Full Stack Developer
+</motion.p>
           <motion.h1 
             className="text-6xl md:text-8xl font-bold mb-6 glow-text gradient-text"
             initial={{ scale: 0.8 }}
