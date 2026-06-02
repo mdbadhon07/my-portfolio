@@ -26,7 +26,8 @@ const Header = () => {
         >
           <img
             src="/lovable-uploads/mipic.jpg"
-            alt="MD BADHON"
+            alt="Full Stack Developer 
+            MD BADHON"
             className="h-8 w-8 rounded-full object-cover shadow"
           />
           <span className="font-semibold tracking-wide text-foreground">MD BADHON</span>
