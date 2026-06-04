@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { Github, Linkedin, Mail, Download, Sun, Moon, Facebook } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useState } from "react";
+<link rel="stylesheet" href="App.css" />
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

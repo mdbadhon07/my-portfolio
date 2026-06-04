@@ -20,15 +20,18 @@ const HeroSection = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.2 }}
           className="max-w-4xl mx-auto"
-        > 
-          <motion.p
-  className="text-primary uppercase tracking-[0.3em] text-sm md:text-lg font-semibold mb-4 inline-block -ml-20"
-  initial={{ opacity: 0, y: -20 }}
-  animate={{ opacity: 1, y: 0 }}
-  transition={{ duration: 0.8 }}
->
-  Full Stack Developer
-</motion.p>
+        >
+         
+        <motion.p
+        
+          className="text-primary uppercase tracking-[0.3em] text-sm md:text-lg font-semibold mb-4 inline-block -ml-40 "
+           initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+           transition={{ duration: 0.8 }}
+          >
+              Full Stack Developer
+        </motion.p>
+        
           <motion.h1 
             className="text-6xl md:text-8xl font-bold mb-6 glow-text gradient-text"
             initial={{ scale: 0.8 }}
